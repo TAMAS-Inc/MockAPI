@@ -4,7 +4,7 @@
     "routeName": "5001",
     "remainSeatCnt": 30,
     "remainStationCnt": 3,
-    "predictTime": 14,
+    "predictRemainTime": 14,
     "predictRemainSeatCnt": 12
   },
   {
@@ -12,7 +12,7 @@
     "routeName": "5003B",
     "remainSeatCnt": 12,
     "remainStationCnt": 2,
-    "predictTime": 8,
+    "predictRemainTime": 8,
     "predictRemainSeatCnt": 3
   }
 ]
