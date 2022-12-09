@@ -1,0 +1,29 @@
+{
+  "current": {
+    "stationId": "228000187",
+    "stationName": "남동구미마을",
+    "remainStationCnt": 5,
+    "predictRemainSeatCnt": 30,
+    "remainSeatCnt": 28
+  },
+  "predict": [
+    {
+      "stationId": "228000191",
+      "stationName": "명지대",
+      "remainStationCnt": 0,
+      "predictRemainSeatCnt": 3
+    },
+    {
+      "stationId": "228002958",
+      "stationName": "명지대앞",
+      "remainStationCnt": 1,
+      "predictRemainSeatCnt": 10
+    },
+    {
+      "stationId": 228000190,
+      "stationName": "동진마을",
+      "remainStationCnt": 2,
+      "predictRemainSeatCnt": 17
+    }
+  ]
+}
