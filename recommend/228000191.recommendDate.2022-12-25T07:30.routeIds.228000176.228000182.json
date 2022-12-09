@@ -3,18 +3,18 @@
     "routeId": 228000176,
     "routeName": "5001",
     "predictDate": "2022-12-25T07:25",
-    "predictRemainSeatCnt": 10
+    "predictRemainSeatCnt": 3
   },
   {
     "routeId": 228000182,
     "routeName": "5003B",
     "predictDate": "2022-12-25T07:20",
-    "predictRemainSeatCnt": 10
+    "predictRemainSeatCnt": 15
   },
   {
     "routeId": 228000176,
     "routeName": "5001",
     "predictDate": "2022-12-25T07:15",
-    "predictRemainSeatCnt": 10
+    "predictRemainSeatCnt": 24
   }
 ]
